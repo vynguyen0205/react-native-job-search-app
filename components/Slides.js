@@ -42,8 +42,10 @@ class Slides extends Component {
 
 const styles = {
   textStyle: {
-    fontSize: 30,
-    color: "white"
+    fontSize: 20,
+    color: "white",
+    paddingLeft: 10,
+    paddingRight: 10
   },
   slide: {
     flex: 1,
